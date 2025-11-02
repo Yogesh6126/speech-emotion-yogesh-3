@@ -1,0 +1,32 @@
+# 🎤 Speech Emotion Recognition – Yogesh
+
+Click below to open and run this notebook directly in **Google Colab** ⬇️
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yogesh6126/speech-emotion-yogesh-3/blob/main/speech_emotion_yogesh.ipynb)
+
+---
+
+## 🧠 About
+This project analyzes human speech to detect emotions such as **happy, sad, angry, neutral** using a machine-learning model.
+
+- Generates synthetic audio, so you can run it offline in Colab  
+- Replace `audio_samples` and `metadata.csv` with real datasets like **RAVDESS** or **CREMA-D**  
+- Uses **RandomForestClassifier** for speed and simplicity (you can upgrade to deep learning later)
+
+---
+
+## 🚀 How to Use
+1. Click the **"Open in Colab"** button above.  
+2. In Colab, go to **Runtime → Run all**.  
+3. The notebook will generate synthetic speech samples and classify their emotions.
+
+---
+
+## 📦 Dependencies
+All required libraries are automatically installed inside the notebook (`librosa`, `numpy`, `pandas`, `sklearn`).
+
+---
+
+## 💬 Author
+👤 **Yogesh**  
+AI & ML Enthusiast | GitHub: [@Yogesh6126](https://github.com/Yogesh6126)
